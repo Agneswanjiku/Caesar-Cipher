@@ -19,7 +19,7 @@ CaesarCipher is a java application that allows the encryption and decryption of 
 <br>decrypt:"ydrcplmml"   key 2       decrypt: "afternoon"<br>
 
 <br>Setup Installation <br>
-To access my java application you need to clone my github repository
+To access my java application you need to clone my github repository.
 
 <br>Technology Used <br>
 To come up with the program i used the java
