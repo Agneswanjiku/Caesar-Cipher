@@ -6,6 +6,7 @@ CaesarCipher is a java application that allows the encryption and decryption of 
  THE PROJECT WAS CREATED BY Agnes Wanjiku Norman.
  
  <br>AND<br>
+
  
  You can reach me via email @ shikonorman@gmail.com
  
@@ -15,6 +16,8 @@ CaesarCipher is a java application that allows the encryption and decryption of 
  character depending on the encryption key you typed. The user can also use the program to decrypt the message by simply inputting the message that was encrypted the key that was used and press enter key in the keyboard.
 
 <br>BDD<br>
+![Screenshot from 2020-06-30 15-03-18](https://user-images.githubusercontent.com/63198747/86124012-1e7be500-bae3-11ea-98b0-f29543cf5b5b.png)
+
 <br>encrypt: "afternoon"  key 2      encrypt: "ydrcplmml"<br>
 <br>decrypt:"ydrcplmml"   key 2       decrypt: "afternoon"<br>
 
