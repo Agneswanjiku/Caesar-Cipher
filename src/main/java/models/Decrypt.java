@@ -1,16 +1,17 @@
  package models;
 
-public class Decrypt {
+public class Decrypt { //decrypt class
 
-    private String mInputString;
+    private String mInputString; //creating instances in the decrypt.java class
     private int mShift;
 
-    public Decrypt(String mInputString, int mShift) {
+    public Decrypt(String mInputString, int mShift) { //constructor
         this.mInputString = mInputString;
         this.mShift = mShift;
     }
 
     public String getmInputString(){
+
         return mInputString;
     }
 

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="models.DecryptTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-30T11:14:51" hostname="moringa-ThinkPad-T450" time="0.005">
-  <properties/>
-  <testcase name="runDecrypt_instantiates" classname="models.DecryptTest" time="0.005"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
