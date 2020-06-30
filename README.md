@@ -22,7 +22,7 @@ CaesarCipher is a java application that allows the encryption and decryption of 
 To access my java application you need to clone my github repository.
 
 <br>Technology Used <br>
-To come up with the program i used the java
+To come up with the program i used the java.
 
 <br>License<br>
 
