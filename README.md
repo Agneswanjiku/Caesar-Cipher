@@ -6,7 +6,6 @@ CaesarCipher is a java application that allows the encryption and decryption of 
  THE PROJECT WAS CREATED BY Agnes Wanjiku Norman.
  
  <br>AND<br>
- ![showcase](https://user-images.githubusercontent.com/63198747/86123099-96491000-bae1-11ea-9d97-f5830aa55524.jpg)
 
  
  You can reach me via email @ shikonorman@gmail.com
