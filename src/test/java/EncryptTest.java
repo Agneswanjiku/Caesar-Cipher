@@ -12,7 +12,9 @@ public class EncryptTest {
     }
 
     @Test
-    public void getmShift() {
+    public void runDecrypt_ifKeyIsInt() {
+        Encrypt testEncrypt = new Encrypt("xyz",3);
+        assertEquals(3, testEncrypt.getmShift());
     }
 
     @Test
