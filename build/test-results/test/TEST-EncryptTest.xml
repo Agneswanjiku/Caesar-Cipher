@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EncryptTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-29T09:38:40" hostname="moringa-ThinkPad-T450" time="0.006">
+  <properties/>
+  <testcase name="encrypt" classname="EncryptTest" time="0.003"/>
+  <testcase name="getmInputString" classname="EncryptTest" time="0.001"/>
+  <testcase name="getmShift" classname="EncryptTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
