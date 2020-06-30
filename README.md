@@ -3,7 +3,7 @@ CaesarCipher is a java application that allows the encryption and decryption of 
  
  <br>Author<br>
  
- THE PROJECT WAS CREATED BY Agnes Wanjiku
+ THE PROJECT WAS CREATED BY Agnes Wanjiku.
  
  <br>AND<br>
  
