@@ -10,7 +10,8 @@ public class DecryptTest {
     @Before
     public void setUp() throws Exception {
 
-    } @Test
+    }
+    @Test
     public void runDecrypt_instantiates(){
         Decrypt testDecrypt = new Decrypt("!khta", 1);
         assertEquals(true, testDecrypt instanceof Decrypt);
@@ -18,5 +19,10 @@ public class DecryptTest {
 
     @After
     public void tearDown() throws Exception {
+    }
+    @Test
+    public void runDecrypt_ifInputIsString() {
+        Decrypt testDecrypt = new Decrypt("khta", 1);
+        assertEquals("khta", testDecrypt.getmInputString());
     }
 }
